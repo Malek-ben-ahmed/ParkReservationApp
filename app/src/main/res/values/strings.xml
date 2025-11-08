@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ParkReservationApp</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>
